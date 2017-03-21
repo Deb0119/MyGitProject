@@ -10,6 +10,7 @@ public class SayHello {
 		 {
 		  System.out.println("Hello Message");
 		  System.out.println("Hi Message");
+                  System.out.println("Third Message");
 		 }
 
 	}
