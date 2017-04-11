@@ -9,6 +9,7 @@ public class SayHello {
 		 for(int i=1;i<4;i++)
 		 {
 		  System.out.println("Hello Message");
+                  System.out.println("Hello Message 1");
 		  System.out.println("Hi Message");
                   System.out.println("Third Message");
 		 }
